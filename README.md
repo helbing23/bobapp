@@ -12,14 +12,14 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 ### npm install
 
-npm i -g create-react-native-app
+`npm i -g create-react-native-app`
 
-create-react-native-app my-project
+`create-react-native-app my-project`
 
-cd my-project
+`cd my-project`
 
 ### expo-cli install
-npm i expo-cli
+`npm i expo-cli`
 
 ### npm start
 Runs the app in development mode.
@@ -30,25 +30,25 @@ Open it in the Expo app on your phone to view it. It will reload if you save edi
 
 Sometimes you may need to reset or clear the React Native packager's cache. To do so, you can pass the --reset-cache flag to the start script:
 
-npm start -- --reset-cache
+`npm start -- --reset-cache`
 ### or
-yarn start -- --reset-cache
+`yarn start -- --reset-cache`
 
 
 
 ### firebase
-npm install firebase --save
+`npm install firebase --save`
 
 ### native-base for forms
-npm install native-base --save
+`npm install native-base --save`
 
 ### navigation
-npm install react-navigation / react-navigation-stack
+`npm install react-navigation --save`
 
-npm update react-navigation-stack
+`npm i react-navigation-stack --save`
 
-react-native link /react-native-gesture-handler
+`react-native link` /`react-native-gesture-handler`
 
 ### searchable-dropdown
-npm install react-native-searchable-dropdown --save
+`npm install react-native-searchable-dropdown --save`
 
