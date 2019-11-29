@@ -15,16 +15,16 @@ npm start/expo start
 # firebase
 npm install firebase
 
-# dependencies
+# dependencies used
 
-#native-base for forms
+# native-base for forms
 npm install native-base --save
 
-#navigation
+# navigation
 npm install react-navigation / react-navigation-stack
 npm update react-navigation-stack
 react-native link /react-native-gesture-handler
 
-#searchable-dropdown
+# searchable-dropdown
 npm install react-native-searchable-dropdown --save
 
